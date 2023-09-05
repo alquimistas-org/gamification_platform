@@ -1,0 +1,3 @@
+[submodule "gamification_api"]
+	path = gamification_api
+	url = git@github.com:alquimistas-org/gamification_api.git
