@@ -14,6 +14,11 @@ gamification_platform/
 └── README.md
 ```
 
+## Run with docker-compose"
+```bash
+docker-compose up --build
+```
+
 ### Clone with submodules
 
 To clone this repository, including all submodules, you can use:
